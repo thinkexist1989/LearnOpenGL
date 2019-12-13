@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.902
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LearnOpenGL", "LearnOpenGL\LearnOpenGL.vcxproj", "{DD81C18E-12A5-41EE-9AB9-7393F1FDC519}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "着色器", "着色器\着色器.vcxproj", "{96278955-B85B-4CBC-8A1D-3987C326553A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "我们自己的着色器类", "我们自己的着色器类\我们自己的着色器类.vcxproj", "{0D378242-0CE6-4B6A-945C-7CAD29CF4E95}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "你好，三角形", "你好，三角形\LearnOpenGL.vcxproj", "{DD81C18E-12A5-41EE-9AB9-7393F1FDC519}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,6 +17,22 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96278955-B85B-4CBC-8A1D-3987C326553A}.Debug|x64.ActiveCfg = Debug|x64
+		{96278955-B85B-4CBC-8A1D-3987C326553A}.Debug|x64.Build.0 = Debug|x64
+		{96278955-B85B-4CBC-8A1D-3987C326553A}.Debug|x86.ActiveCfg = Debug|Win32
+		{96278955-B85B-4CBC-8A1D-3987C326553A}.Debug|x86.Build.0 = Debug|Win32
+		{96278955-B85B-4CBC-8A1D-3987C326553A}.Release|x64.ActiveCfg = Release|x64
+		{96278955-B85B-4CBC-8A1D-3987C326553A}.Release|x64.Build.0 = Release|x64
+		{96278955-B85B-4CBC-8A1D-3987C326553A}.Release|x86.ActiveCfg = Release|Win32
+		{96278955-B85B-4CBC-8A1D-3987C326553A}.Release|x86.Build.0 = Release|Win32
+		{0D378242-0CE6-4B6A-945C-7CAD29CF4E95}.Debug|x64.ActiveCfg = Debug|x64
+		{0D378242-0CE6-4B6A-945C-7CAD29CF4E95}.Debug|x64.Build.0 = Debug|x64
+		{0D378242-0CE6-4B6A-945C-7CAD29CF4E95}.Debug|x86.ActiveCfg = Debug|Win32
+		{0D378242-0CE6-4B6A-945C-7CAD29CF4E95}.Debug|x86.Build.0 = Debug|Win32
+		{0D378242-0CE6-4B6A-945C-7CAD29CF4E95}.Release|x64.ActiveCfg = Release|x64
+		{0D378242-0CE6-4B6A-945C-7CAD29CF4E95}.Release|x64.Build.0 = Release|x64
+		{0D378242-0CE6-4B6A-945C-7CAD29CF4E95}.Release|x86.ActiveCfg = Release|Win32
+		{0D378242-0CE6-4B6A-945C-7CAD29CF4E95}.Release|x86.Build.0 = Release|Win32
 		{DD81C18E-12A5-41EE-9AB9-7393F1FDC519}.Debug|x64.ActiveCfg = Debug|x64
 		{DD81C18E-12A5-41EE-9AB9-7393F1FDC519}.Debug|x64.Build.0 = Debug|x64
 		{DD81C18E-12A5-41EE-9AB9-7393F1FDC519}.Debug|x86.ActiveCfg = Debug|Win32

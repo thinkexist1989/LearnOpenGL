@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "纹理", "纹理\纹理.vcx
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "变换", "变换\变换.vcxproj", "{AE4CB28C-3629-45C6-A1E0-87915A3BEE71}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "坐标系统", "坐标系统\坐标系统.vcxproj", "{D1677D81-56FE-42A6-AC48-D082DBC9D7F5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{AE4CB28C-3629-45C6-A1E0-87915A3BEE71}.Release|x64.Build.0 = Release|x64
 		{AE4CB28C-3629-45C6-A1E0-87915A3BEE71}.Release|x86.ActiveCfg = Release|Win32
 		{AE4CB28C-3629-45C6-A1E0-87915A3BEE71}.Release|x86.Build.0 = Release|Win32
+		{D1677D81-56FE-42A6-AC48-D082DBC9D7F5}.Debug|x64.ActiveCfg = Debug|x64
+		{D1677D81-56FE-42A6-AC48-D082DBC9D7F5}.Debug|x64.Build.0 = Debug|x64
+		{D1677D81-56FE-42A6-AC48-D082DBC9D7F5}.Debug|x86.ActiveCfg = Debug|Win32
+		{D1677D81-56FE-42A6-AC48-D082DBC9D7F5}.Debug|x86.Build.0 = Debug|Win32
+		{D1677D81-56FE-42A6-AC48-D082DBC9D7F5}.Release|x64.ActiveCfg = Release|x64
+		{D1677D81-56FE-42A6-AC48-D082DBC9D7F5}.Release|x64.Build.0 = Release|x64
+		{D1677D81-56FE-42A6-AC48-D082DBC9D7F5}.Release|x86.ActiveCfg = Release|Win32
+		{D1677D81-56FE-42A6-AC48-D082DBC9D7F5}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

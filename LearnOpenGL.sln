@@ -17,6 +17,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "坐标系统", "坐标系�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "摄像机", "摄像机\摄像机.vcxproj", "{62BEDBC2-F556-4F8A-A261-F945CA73C39E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "光照-颜色", "光照-颜色\光照-颜色.vcxproj", "{CA3778D7-294D-43A2-BCC4-143BE6899E16}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -81,6 +83,14 @@ Global
 		{62BEDBC2-F556-4F8A-A261-F945CA73C39E}.Release|x64.Build.0 = Release|x64
 		{62BEDBC2-F556-4F8A-A261-F945CA73C39E}.Release|x86.ActiveCfg = Release|Win32
 		{62BEDBC2-F556-4F8A-A261-F945CA73C39E}.Release|x86.Build.0 = Release|Win32
+		{CA3778D7-294D-43A2-BCC4-143BE6899E16}.Debug|x64.ActiveCfg = Debug|x64
+		{CA3778D7-294D-43A2-BCC4-143BE6899E16}.Debug|x64.Build.0 = Debug|x64
+		{CA3778D7-294D-43A2-BCC4-143BE6899E16}.Debug|x86.ActiveCfg = Debug|Win32
+		{CA3778D7-294D-43A2-BCC4-143BE6899E16}.Debug|x86.Build.0 = Debug|Win32
+		{CA3778D7-294D-43A2-BCC4-143BE6899E16}.Release|x64.ActiveCfg = Release|x64
+		{CA3778D7-294D-43A2-BCC4-143BE6899E16}.Release|x64.Build.0 = Release|x64
+		{CA3778D7-294D-43A2-BCC4-143BE6899E16}.Release|x86.ActiveCfg = Release|Win32
+		{CA3778D7-294D-43A2-BCC4-143BE6899E16}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -25,6 +25,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "光照-材质", "光照-材
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "光照贴图", "光照贴图\光照贴图.vcxproj", "{29718784-1B2C-488D-8CED-7CAEC746A4BB}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "投光物", "投光物\投光物.vcxproj", "{CA14B9B2-E318-46DD-B438-BB72D9E7542A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -121,6 +123,14 @@ Global
 		{29718784-1B2C-488D-8CED-7CAEC746A4BB}.Release|x64.Build.0 = Release|x64
 		{29718784-1B2C-488D-8CED-7CAEC746A4BB}.Release|x86.ActiveCfg = Release|Win32
 		{29718784-1B2C-488D-8CED-7CAEC746A4BB}.Release|x86.Build.0 = Release|Win32
+		{CA14B9B2-E318-46DD-B438-BB72D9E7542A}.Debug|x64.ActiveCfg = Debug|x64
+		{CA14B9B2-E318-46DD-B438-BB72D9E7542A}.Debug|x64.Build.0 = Debug|x64
+		{CA14B9B2-E318-46DD-B438-BB72D9E7542A}.Debug|x86.ActiveCfg = Debug|Win32
+		{CA14B9B2-E318-46DD-B438-BB72D9E7542A}.Debug|x86.Build.0 = Debug|Win32
+		{CA14B9B2-E318-46DD-B438-BB72D9E7542A}.Release|x64.ActiveCfg = Release|x64
+		{CA14B9B2-E318-46DD-B438-BB72D9E7542A}.Release|x64.Build.0 = Release|x64
+		{CA14B9B2-E318-46DD-B438-BB72D9E7542A}.Release|x86.ActiveCfg = Release|Win32
+		{CA14B9B2-E318-46DD-B438-BB72D9E7542A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -212,7 +212,7 @@ int main()
 		// be sure to activate shader when setting uniforms/drawing objects
 		lightingShader.use();
 		lightingShader.setVec3("viewPos", camera.Position);
-		lightingShader.setFloat("material.shiniess", 32.0f);
+		lightingShader.setFloat("material.shininess", 32.0f);
 
 		// directional light
 		lightingShader.setVec3("dirLight.direction", -0.2f, -1.0f, -0.3f);

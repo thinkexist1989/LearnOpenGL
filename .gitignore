@@ -350,3 +350,5 @@ MigrationBackup/
 .ionide/
 
 ![Ll]ibs/**
+*.ilk
+*.pdb

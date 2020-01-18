@@ -6,7 +6,7 @@
 # User-specific files
 *.rsuser
 *.suo
-*.user
+#*.user
 *.userosscache
 *.sln.docstates
 
@@ -352,3 +352,5 @@ MigrationBackup/
 ![Ll]ibs/**
 *.ilk
 *.pdb
+
+!res/**/*.obj
